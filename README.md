@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine Learning and Android Development 
 - 👯 I’m looking to collaborate on some projects helping me learn new technologies
 - 📫 How to reach me: rajeev.sanket@gmail.com
-- 📚 Favourite book: Superintelligence: Paths, Dangers, Strategies <sub>by Nick Bostrom</sub>
+- 📚 Current Favourite book: Superintelligence: Paths, Dangers, Strategies <sub>by Nick Bostrom</sub>
 - ⚡ Fun fact: I like staying home and being a night owl
 
 <!-- Accounts and links -->
@@ -45,4 +45,4 @@
 <!--GitHub Stats-->
 ## GitHub Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sanket-Mathur&show_icons=true&hide_border=true">
+<img align="left" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sanket-Mathur&show_icons=true&hide_border=true">
