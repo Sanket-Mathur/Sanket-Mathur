@@ -45,7 +45,7 @@
 
 <!--Most Used Languages Stats-->
 
-<img align="left" alt="Sanket-Mathur's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Mathur&theme=light&hide_langs_below=1" />
+<img align="left" alt="Sanket-Mathur's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Mathur&theme=light&hide_langs_below=1&hide_border=true" />
 
 <!--GitHub Stats-->
 
