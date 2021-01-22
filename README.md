@@ -44,15 +44,9 @@
 ---
 
 <!--Most Used Languages Stats-->
-## Most Used Languages
 
-<a href="https://github.com/Sanket-Mathur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Mathur&theme=light&hide_langs_below=1" />
-</a>
-
----
+<img align="left" alt="Sanket-Mathur's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Mathur&theme=light&hide_langs_below=1" />
 
 <!--GitHub Stats-->
-## GitHub Stats
 
-<img align="left" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sanket-Mathur&show_icons=true&hide_border=true">
+<img align="right" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sanket-Mathur&show_icons=true&hide_border=true">
