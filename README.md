@@ -14,6 +14,7 @@
 [<img align="left" alt="learningprogrammer.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://learningprogrammer.tech/)
 [<img align="left" alt="Sanket-Mathur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sanket-mathur-399ba718a/)
 [<img align="left" alt="sanket_mathur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sanket_mathur/)
+[<img align="left" alt="Sanket's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/sanket_mathur)
 <br>
 
 --- 
@@ -39,6 +40,15 @@
 <img align="left" alt="MongoDB" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">
 <img align="left" alt="MySQL" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/mysql-21-1174941.png">
 <br>
+
+---
+
+<!--Most Used Languages Stats-->
+## Most Used Languages
+
+<a href="https://github.com/Sanket-Mathur">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Mathur&theme=light&hide_langs_below=1" />
+</a>
 
 ---
 
