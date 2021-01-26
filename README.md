@@ -1,5 +1,9 @@
 ### Hi there, I'm Sanket Mathur 👋
+
+<img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
+
 ## Welcome to my GitHub profile
+
 
 <!-- Basic Introduction -->
 - 🔭 I’m currently working on my skills in Competitive Programming
@@ -8,6 +12,7 @@
 - 📫 How to reach me: rajeev.sanket@gmail.com
 - 📚 Current Favourite book: Superintelligence: Paths, Dangers, Strategies <sub>by Nick Bostrom</sub>
 - ⚡ Fun fact: I like staying home and being a night owl
+
 
 <!-- Accounts and links -->
 ### Connect with me:
@@ -50,3 +55,5 @@
 <!--GitHub Stats-->
 
 <img align="right" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sanket-Mathur&show_icons=true&hide_border=true">
+
+<br>
