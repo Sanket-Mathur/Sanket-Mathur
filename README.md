@@ -1,9 +1,7 @@
 ### Hi there, I'm Sanket Mathur 👋
-
-<img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
-
 ## Welcome to my GitHub profile
 
+<img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
 
 <!-- Basic Introduction -->
 - 🔭 I’m currently working on my skills in Competitive Programming
