@@ -18,6 +18,7 @@
 [<img align="left" alt="Sanket-Mathur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sanket-mathur-399ba718a/)
 [<img align="left" alt="sanket_mathur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sanket_mathur/)
 [<img align="left" alt="Sanket's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/sanket_mathur)
+[<img align="left" alt="SanketMathur12" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/SanketMathur12)
 <br>
 
 --- 
