@@ -57,4 +57,6 @@
 
 <img align="right" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sanket-Mathur&show_icons=true&hide_border=true">
 
-<br>
+<!--GitHub Streak-->
+
+<img align="right" alt="Sanket-Mathur's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket-Mathur&theme=light&hide_border=true">
