@@ -51,12 +51,12 @@
 
 <!--Most Used Languages Stats-->
 
-<img align="left" alt="Sanket-Mathur's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Mathur&theme=light&hide_langs_below=1&hide_border=true" />
+<img align="left" alt="Sanket-Mathur's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Mathur&theme=dark&hide_langs_below=1&hide_border=true" />
 
 <!--GitHub Stats-->
 
-<img align="right" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sanket-Mathur&show_icons=true&hide_border=true">
+<img align="right" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sanket-Mathur&theme=blue-green">
 
 <!--GitHub Streak-->
 
-<img align="right" alt="Sanket-Mathur's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket-Mathur&theme=light&hide_border=true">
+<img align="right" alt="Sanket-Mathur's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket-Mathur&theme=dark&hide_border=true">
