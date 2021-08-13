@@ -55,7 +55,7 @@
 
 <!--GitHub Stats-->
 
-<img align="right" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sanket-Mathur&theme=blue-green">
+<img align="right" alt="Sanket-Mathur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sanket-Mathur&theme=blue-green&hide_border=true">
 
 <!--GitHub Streak-->
 
