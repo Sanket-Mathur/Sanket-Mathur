@@ -1,4 +1,5 @@
-### Hi there, I'm Sanket Mathur 👋
+<h3> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="35" width="35" /> Hi there, I'm Sanket Mathur </h3>
+
 ## Welcome to my GitHub profile
 
 <img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
