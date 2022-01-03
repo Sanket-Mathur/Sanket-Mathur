@@ -90,3 +90,6 @@
 <p align="center">
   <a href="mailto:rajeev.sanket@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+<!-- Github contribution grid snake -->
+<p align="center"><img alt="Snake GIF" src="https://github.com/Sanket-Mathur/Sanket-Mathur/blob/output/github-contribution-grid-snake.svg"></p>
