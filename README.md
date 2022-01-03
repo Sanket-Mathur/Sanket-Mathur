@@ -15,12 +15,15 @@
 <img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
 <br>
 
+:dart: Wish to be a part of a revolutionary technology in its making  
 :telescope: Working on my skills in Machine Learning and Problem Solving  
-:seedling: Learning Data Analysis and Back-end Development  
+:seedling: Learning Cloud Computing and Back-end Development  
 :eyes: Looking forward to collaborate and working on interesting problems  
 :bulb: Reading research papers is one of my recent hobbies  
 :ticket: I love attending events and talking about technology  
 :ear: Always interested in listening and discussing about new ideas  
+:apple: Eating healthy is the most I'm doing for my physical self at the moment  
+:hourglass: My scariest dream is wasting my life without a motive  
 :books: Favourite book: Superintelligence: Paths, Dangers, Strategies <sub>by Nick Bostrom</sub>  
 
 <br>
@@ -69,16 +72,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanket-Mathur&theme=monokai">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanket-Mathur&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanket-Mathur&theme=monokai">&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanket-Mathur&theme=monokai">
 </p>
 
-<!--
-### Connect with me:
-[<img align="left" alt="learningprogrammer.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://learningprogrammer.tech/)
-[<img align="left" alt="Sanket-Mathur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sanket-mathur-399ba718a/)
-[<img align="left" alt="sanket_mathur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sanket_mathur/)
-[<img align="left" alt="Sanket's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/sanket_mathur)
-[<img align="left" alt="SanketMathur12" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/SanketMathur12)
+<!-- Connect with me -->
+<h1 align="center">Connect with me</h1>
 <br>
--->
+<p align="center">Whether you are willing to collaborate or just checking my activity, feel free to connect.</p>
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanket-mathur-399ba718a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/sanket_mathur/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://t.me/sanket_mathur"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+<p align="center">
+  <a href="mailto:rajeev.sanket@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
