@@ -39,18 +39,21 @@
   <img alt="C++" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">&emsp;
   <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&emsp;
   <img alt="HTML" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png">&emsp;
-  <img alt="CSS" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">
+  <img alt="CSS" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">&emsp;
+  <img alt="Flutter" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png">
 </p>
 <p align="center">
   <img alt="Java" width="30px" src="http://anishsir.in/images/java/java-logo-png-300x300.png">&emsp;
   <img alt="R" width="30px" src="http://www.dataconsulting.co.uk/wp-content/uploads/2017/08/Rlogo.png">&emsp;
   <img alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&emsp;
+  <img alt="git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">&emsp;
   <img alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 </p>
 <p align="center">
-  <img alt="git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">&emsp;
+  <img alt="GitHub" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png">&emsp;
   <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&emsp;
-  <img alt="Linux" width="30px" src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux.png">
+  <img alt="Linux" width="30px" src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux.png">&emsp;
+  <img alt="AWS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png">
 </p>
 <p align="center">
   <img alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">&emsp;
