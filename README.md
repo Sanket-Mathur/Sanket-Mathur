@@ -16,8 +16,8 @@
 <br>
 
 :dart: Wish to be a part of a revolutionary technology in its making  
-:telescope: Working on my skills in Machine Learning and Problem Solving  
-:seedling: Learning Cloud Computing and Back-end Development  
+:telescope: Working on my skills in Machine Learning, Front-End Development and Problem Solving  
+:seedling: Learning Cloud Computing and Flutter Development  
 :eyes: Looking forward to collaborate and working on interesting problems  
 :bulb: Reading research papers is one of my recent hobbies  
 :ticket: I love attending events and talking about technology  
