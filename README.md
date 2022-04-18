@@ -45,19 +45,24 @@
 <p align="center">
   <img alt="Java" width="30px" src="http://anishsir.in/images/java/java-logo-png-300x300.png">&emsp;
   <img alt="R" width="30px" src="http://www.dataconsulting.co.uk/wp-content/uploads/2017/08/Rlogo.png">&emsp;
-  <img alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&emsp;
+  <img alt="Dart" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scottbrady91.com%2Fimg%2Flogos%2Fdart.png&f=1&nofb=1">&emsp;
   <img alt="git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">&emsp;
   <img alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 </p>
 <p align="center">
   <img alt="GitHub" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png">&emsp;
   <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&emsp;
+   <img alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&emsp;
   <img alt="Linux" width="30px" src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux.png">&emsp;
-  <img alt="AWS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png">
-</p>
+  
 <p align="center">
   <img alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">&emsp;
-  <img alt="MySQL" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+  <img alt="MySQL" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">&emsp;
+  <img alt="BigQuery" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdbdb.io%2Fmedia%2Flogos%2Fbigquery.png&f=1&nofb=1">
+</p>
+<p align="center">
+  <img alt="AWS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png">&emsp;
+  <img alt="Google Cloud" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png">
 </p>
 <p align="center">
   <img alt="Sheets" width="30px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png">
