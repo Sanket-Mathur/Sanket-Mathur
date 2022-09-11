@@ -43,7 +43,7 @@
   <img alt="Flutter" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png">
 </p>
 <p align="center">
-  <img alt="Java" width="30px" src="http://anishsir.in/images/java/java-logo-png-300x300.png">&emsp;
+  <img alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">&emsp;
   <img alt="R" width="30px" src="http://www.dataconsulting.co.uk/wp-content/uploads/2017/08/Rlogo.png">&emsp;
   <img alt="Dart" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scottbrady91.com%2Fimg%2Flogos%2Fdart.png&f=1&nofb=1">&emsp;
   <img alt="git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">&emsp;
